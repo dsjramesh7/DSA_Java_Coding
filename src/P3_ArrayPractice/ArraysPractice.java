@@ -8,8 +8,6 @@ public class ArraysPractice {
         Scanner in = new Scanner(System.in);
 
 
-
-
         int[] rollNos = {1,24,5,23,45,78};
         System.out.println(rollNos[1]);
         System.out.println(Arrays.toString(rollNos));
