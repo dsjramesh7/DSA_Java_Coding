@@ -1,4 +1,4 @@
-package basic;
+package P1_basic;
 
 import java.util.Scanner;
 

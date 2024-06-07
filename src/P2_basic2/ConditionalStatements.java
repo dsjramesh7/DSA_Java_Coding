@@ -1,4 +1,4 @@
-package basic2;
+package P2_basic2;
 
 public class ConditionalStatements {
     public static void main(String[] args){

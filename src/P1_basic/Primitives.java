@@ -1,4 +1,4 @@
-package basic;
+package P1_basic;
 
 public class Primitives {
     public static  void main(String[] args){

@@ -1,4 +1,4 @@
-package basic2.myPractice;
+package P2_basic2.myPractice;
 
 public class A14_ReverseNumber {
     public static void main(String[] args) {
